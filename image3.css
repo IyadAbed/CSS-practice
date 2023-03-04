@@ -1,0 +1,24 @@
+h2{
+  text-decoration: underline;
+}
+.blue{
+  color: blue;
+}
+.link1{
+  color: orange;
+  text-decoration: underline;
+}
+.link2{
+  background-color: yellow;
+  text-decoration: underline;
+}
+.red-1{
+  color: red;
+  font-weight: bold;
+}
+.red-2{
+  color: red;
+}
+.bold{
+  font-weight: bold;
+}

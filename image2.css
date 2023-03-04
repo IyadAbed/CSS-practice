@@ -1,0 +1,31 @@
+body{
+  background-color: #FCFFE7;
+  border-width: 0 3px 0 0;
+  border-color: black;
+  border-style: solid;
+}
+.first-div{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 65px;
+  overflow: hidden;
+}
+.final-div{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 65px;
+  overflow: hidden;
+}
+span{
+  background-color: rgb(233, 233, 233);
+  margin-right: 5px;
+}
+p{
+  overflow: auto;
+  overflow-x: hidden;
+  height: 70px;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  font-weight: bold;
+}
+
